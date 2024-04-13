@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>"职"日可待--"大学生职业领航"计划</title>
     <style>
-         
         ul{
             color:blue;background-color: azure;text-align: center;font-size: 3em;font-weight: 100;
         }
