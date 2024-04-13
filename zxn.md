@@ -34,7 +34,8 @@
             <div>
                 <a href="">
                     <img src="./img/1.png" alt="">
-                    ![image](https://github.com/3078255194/z.github.io/blob/main/1.png))
+                    ![1](https://github.com/3078255194/z.github.io/assets/166900035/803e408b-1e92-4d6b-8a04-8b68f9dc1828)
+
                 </a>
                 <div class="d">职业咨询</div>
                 <div class="b">组建“大学生就业”领域咨询团队，实现人岗匹配</div>
